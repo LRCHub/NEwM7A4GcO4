@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "Millionaire",
+  "base_artist": "LiL Lotus",
+  "createdAt": "2025-12-01T05:36:18.093203Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Millionaire (feat. Nelly)",
+      "artist": "Cash Cash feat. Digital Farm Animals & Nelly",
+      "has_synced": true,
+      "path": "select/01_Millionaire_(feat._Nelly)_Cash_Cash_feat._Digital_Farm_Animals_&_Nelly.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Millionaire (feat. Nelly)",
+      "artist": "Cash Cash;Digital Farm Animals;Nelly",
+      "has_synced": true,
+      "path": "select/02_Millionaire_(feat._Nelly)_Cash_Cash;Digital_Farm_Animals;Nelly.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Millionaire",
+      "artist": "Chris Stapleton",
+      "has_synced": true,
+      "path": "select/03_Millionaire_Chris_Stapleton.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Stroke God, Millionaire",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/04_Stroke_God,_Millionaire_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Stroke God, Millionaire (Tree City Sessions)",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/05_Stroke_God,_Millionaire_(Tree_City_Sessions)_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Millionaire Waltz",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/06_The_Millionaire_Waltz_Queen.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Millionaire - Live",
+      "artist": "Kelis",
+      "has_synced": false,
+      "path": "select/07_Millionaire_-_Live_Kelis.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Multi Millionaire",
+      "artist": "Lil Pump feat. Lil Uzi Vert",
+      "has_synced": true,
+      "path": "select/08_Multi_Millionaire_Lil_Pump_feat._Lil_Uzi_Vert.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Multi Millionaire (feat. Lil Uzi Vert)",
+      "artist": "Lil Pump",
+      "has_synced": true,
+      "path": "select/09_Multi_Millionaire_(feat._Lil_Uzi_Vert)_Lil_Pump.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Millionaire",
+      "artist": "Beady Eye",
+      "has_synced": true,
+      "path": "select/10_Millionaire_Beady_Eye.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Millionaire (Live from KEXP Radio)",
+      "artist": "Beady Eye",
+      "has_synced": false,
+      "path": "select/11_Millionaire_(Live_from_KEXP_Radio)_Beady_Eye.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Millionaire Sweeper",
+      "artist": "Kenickie",
+      "has_synced": false,
+      "path": "select/12_Millionaire_Sweeper_Kenickie.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Millionaire Dick",
+      "artist": "City Girls",
+      "has_synced": true,
+      "path": "select/13_Millionaire_Dick_City_Girls.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "She's A Millionaire",
+      "artist": "Catatonia",
+      "has_synced": false,
+      "path": "select/14_She's_A_Millionaire_Catatonia.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Can't Believe I'm Not a Millionaire",
+      "artist": "The Puppini Sisters",
+      "has_synced": false,
+      "path": "select/15_I_Can't_Believe_I'm_Not_a_Millionaire_The_Puppini_Sisters.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Can’t Believe I’m Not a Millionaire",
+      "artist": "The Puppini Sisters",
+      "has_synced": false,
+      "path": "select/16_I_Can’t_Believe_I’m_Not_a_Millionaire_The_Puppini_Sisters.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "How to Be a Millionaire",
+      "artist": "ABC",
+      "has_synced": true,
+      "path": "select/17_How_to_Be_a_Millionaire_ABC.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Millionaire (Feat. Nelly)",
+      "artist": "Digital Farm Animals & Cash Cash",
+      "has_synced": false,
+      "path": "select/pl_01_Millionaire_(Feat._Nelly)_Digital_Farm_Animals_&_Cash_Cash.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Millionaire",
+      "artist": "Digital Farm Animals & Cash Cash",
+      "has_synced": false,
+      "path": "select/pl_02_Millionaire_Digital_Farm_Animals_&_Cash_Cash.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Millionaire (feat. Nelly)",
+      "artist": "Digital Farm Animals & Cash Cash",
+      "has_synced": false,
+      "path": "select/pl_03_Millionaire_(feat._Nelly)_Digital_Farm_Animals_&_Cash_Cash.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Millionaire",
+      "artist": "Digital Farm Animals & Cash Cash",
+      "has_synced": false,
+      "path": "select/pl_04_Millionaire_Digital_Farm_Animals_&_Cash_Cash.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Millionaires",
+      "artist": "Digital Farm Animals & Cash Cash",
+      "has_synced": false,
+      "path": "select/pl_05_Millionaires_Digital_Farm_Animals_&_Cash_Cash.txt"
+    }
+  ]
+}
